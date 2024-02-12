@@ -1,0 +1,22 @@
+https://cs50.harvard.edu/python/2022/notes/7/
+
+- Relevant Content
+
+
+Other Courses and CheatSheets:
+	https://app.datacamp.com/learn/courses/regular-expressions-in-python
+
+	https://www.datacamp.com/cheat-sheet/regular-expresso
+	https://images.datacamp.com/image/upload/v1665049611/Marketing/Blog/Regular_Expressions_Cheat_Sheet.pdf
+
+Testing Regex:
+	https://regexr.com/
+	https://pythex.org/
+	https://regex101.com/
+	
+
+Making Regex Ranges:
+	https://3widgets.com/
+	https://www.regextutorial.org/regex-for-numbers-and-ranges.php
+	https://www.regular-expressions.info/numericranges.html
+
